@@ -1,0 +1,10 @@
+<?php
+	$Numeros[0][0]=1;
+	$Numeros[0][1]=2;
+	$Numeros[1][0]=3;
+	$Numeros[1][1]=4;
+
+	echo "El elemento en la posicion 0,0 es:";
+	echo $Numeros[0][0];
+	echo "<br>";
+?>
